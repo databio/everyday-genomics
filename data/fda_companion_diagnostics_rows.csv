@@ -1,0 +1,227 @@
+device,indication,drug,approval,approval_date
+"INFORM HER-2/neu (Ventana Medical Systems, Inc.)",Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P940004 (12/30/1997),1997-12-30
+HercepTest (Dako Denmark A/S),Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P980018 (09/25/1998),1998-09-25
+PathVysion HER-2 DNA Probe Kit (Abbott Molecular Inc.),Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P980024 (12/11/1998),1998-12-11
+"PATHWAY anti-Her2/neu (4B5) Rabbit Monoclonal Primary Antibody (Ventana Medical Systems, Inc.)",Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P990081 (11/28/2000),2000-11-28
+"Dako EGFR pharmDx Kit (Dako North America, Inc.)",Colorectal Cancer - Tissue,Erbitux (cetuximab) BLA 125084,P030044 (02/12/2004),2004-02-12
+"InSite Her-2/neu (CB11) Monoclonal Antibody (Biogenex Laboratories, Inc.)",Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P040030 (12/22/2004),2004-12-22
+HER2 FISH pharmDx Kit (Dako Denmark A/S),Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P040005 (05/03/2005),2005-05-03
+"Dako EGFR pharmDx Kit (Dako North America, Inc.)",Colorectal Cancer - Tissue,Vectibix (panitumumab) BLA 125147,P030044/S002 (09/27/2006),2006-09-27
+SPOT-LIGHT HER2 CISH Kit (Life Technologies Corporation),Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P050040 (07/01/2008),2008-07-01
+HER2 FISH pharmDx Kit (Dako Denmark A/S),Gastric and Gastroesophageal Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P040005/S005 (10/20/2010),2010-10-20
+HercepTest (Dako Denmark A/S),Gastric and Gastroesophageal Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P980018/S010 (10/20/2010),2010-10-20
+"cobas 4800 BRAF V600 Mutation Test (Roche Molecular Systems, Inc.)",Melanoma - Tissue,Zelboraf (vemurafenib) NDA 202429,P110020 (08/17/2011),2011-08-17
+Vysis ALK Break Apart FISH Probe Kit (Abbott Molecular Inc.),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Xalkori (crizotinib) NDA 202570,P110012 (08/26/2011),2011-08-26
+HER2 CISH pharmDx Kit (Dako Denmark A/S),Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P100024 (11/30/2011),2011-11-30
+Bond Oracle HER2 IHC System (Leica Biosystems),Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P090015 (04/18/2012),2012-04-18
+HER2 FISH pharmDx Kit (Dako Denmark A/S),Breast Cancer - Tissue,Perjeta (pertuzumab) BLA 125409,P040005/S006 (06/08/2012),2012-06-08
+HercepTest (Dako Denmark A/S),Breast Cancer - Tissue,Perjeta (pertuzumab) BLA 125409,P980018/S015 (06/08/2012),2012-06-08
+"therascreen KRAS RGQ PCR Kit (Qiagen Manchester, Ltd.)",Colorectal Cancer - Tissue,Erbitux (cetuximab) BLA 125084,P110030 (07/06/2012),2012-07-06
+FerriScan (Resonance Health Analysis Services Pty Ltd),Non-Transfusion-Dependent Thalassemia - Tissue,Exjade (deferasirox) NDA 021882,DEN130012 / K124065 (01/23/2013),2013-01-23
+HER2 FISH pharmDx Kit (Dako Denmark A/S),Breast Cancer - Tissue,Kadcyla (ado-trastuzumab emtansine) BLA 125427,P040005/S009 (02/22/2013),2013-02-22
+HercepTest (Dako Denmark A/S),Breast Cancer - Tissue,Kadcyla (ado-trastuzumab emtansine) BLA 125427,P980018/S016 (02/22/2013),2013-02-22
+THXID BRAF Kit (bioMérieux Inc.),Melanoma - Tissue,Mekinist (trametinib) NDA 204114,P120014 (05/29/2013),2013-05-29
+THXID BRAF Kit (bioMérieux Inc.),Melanoma - Tissue,Tafinlar (dabrafenib) NDA 202806,P120014 (05/29/2013),2013-05-29
+"therascreen EGFR RGQ PCR Kit (Qiagen Manchester, Ltd.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Gilotrif (afatinib) NDA 201292,P120022 (07/12/2013),2013-07-12
+"cobas EGFR Mutation Test v1 (Roche Molecular Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Tarceva (erlotinib) NDA 021743,P120019 (07/15/2013),2013-07-15
+"therascreen KRAS RGQ PCR Kit (Qiagen Manchester, Ltd.)",Colorectal Cancer - Tissue,Vectibix (panitumumab) BLA 125147,P110027 (05/23/2014),2014-05-23
+"BRACAnalysis CDx (Myriad Genetic Laboratories, Inc.)",Ovarian Cancer - Whole Blood,Lynparza (olaparib) NDA 208558,P140020 (12/19/2014),2014-12-19
+"cobas KRAS Mutation Test (Roche Molecular Systems, Inc.)",Colorectal Cancer - Tissue,Erbitux (cetuximab) BLA 125084,P140023 (05/07/2015),2015-05-07
+"cobas KRAS Mutation Test (Roche Molecular Systems, Inc.)",Colorectal Cancer - Tissue,Vectibix (panitumumab) BLA 125147,P140023 (05/07/2015),2015-05-07
+"Ventana ALK (D5F3) CDx Assay (Ventana Medical Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Xalkori (crizotinib) NDA 202570,P140025 (06/12/2015),2015-06-12
+"therascreen EGFR RGQ PCR Kit (Qiagen Manchester, Ltd.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Iressa (gefitinib) NDA 206995,P120022/S001 (07/10/2015),2015-07-10
+"PD-L1 IHC 22C3 pharmDx (Dako North America, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Keytruda (pembrolizumab) BLA 125514,P150013 (10/02/2015); updated P150013/S012 (04/16/2019),2015-10-02
+"cobas EGFR Mutation Test v2 (Roche Molecular Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Tagrisso (osimertinib) NDA 208065,P120019/S007 (11/13/2015),2015-11-13
+"KIT D816V Assay (ARUP Laboratories, Inc.)",Aggressive Systemic Mastocytosis - Bone Marrow,Gleevec (imatinib mesylate) NDA 021588,H140006 (12/18/2015),2015-12-18
+"PDGFRB FISH Assay (ARUP Laboratories, Inc.)",Myelodysplastic Syndrome/Myeloproliferative Disease - Bone Marrow,Gleevec (imatinib mesylate) NDA 021588,H140005 (12/18/2015),2015-12-18
+"Vysis CLL FISH Probe Kit (Abbott Molecular, Inc.)",B-cell Chronic Lymphocytic Leukemia - Peripheral Blood,Venclexta (venetoclax) NDA 208573,P150041 (04/11/2016),2016-04-11
+"Ventana PD-L1 (SP142) Assay (Ventana Medical Systems, Inc.)",Urothelial Carcinoma - Tissue,Tecentriq (atezolizumab) BLA 761034,P160002 (05/18/2016),2016-05-18
+"cobas EGFR Mutation Test v2 (Roche Molecular Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Tarceva (erlotinib) NDA 021743,P150047 (06/01/2016),2016-06-01
+"cobas 4800 BRAF V600 Mutation Test (Roche Molecular Systems, Inc.)",Melanoma - Tissue,Cotellic (cobimetinib) NDA 206192 in combination with Zelboraf (vemurafenib) NDA 202429,P110020/S016 (11/07/2016),2016-11-07
+"FoundationFocus CDxBRCA Assay (Foundation Medicine, Inc.)",Ovarian Cancer - Tissue,Rubraca (rucaparib) NDA 209115,P160018 (12/19/2016),2016-12-19
+"LeukoStrat CDx FLT3 Mutation Assay (Invivoscribe Technologies, Inc.)",Acute Myelogenous Leukemia - Peripheral Blood or Bone Marrow,Rydapt (midostaurin) NDA 207997,P160040 (04/28/2017),2017-04-28
+"Ventana ALK (D5F3) CDx Assay (Ventana Medical Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Zykadia (ceritinib) NDA 211225,P140025/S005 (05/26/2017),2017-05-26
+Oncomine Dx Target Test (Life Technologies Corporation),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Tafinlar (dabrafenib) NDA 202806 in combination with Mekinist (trametinib) NDA 204114,P160045 (06/22/2017),2017-06-22
+Oncomine Dx Target Test (Life Technologies Corporation),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Xalkori (crizotinib) NDA 202570,P160045 (06/22/2017),2017-06-22
+Oncomine Dx Target Test (Life Technologies Corporation),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Iressa (gefitinib) NDA 206995,P160045 (06/22/2017),2017-06-22
+"Abbott RealTime IDH2 (Abbott Molecular, Inc.)",Acute Myeloid Leukemia - Peripheral Blood or Bone Marrow,Idhifa (enasidenib) NDA 209606,P170005 (08/01/2017),2017-08-01
+"Ventana ALK (D5F3) CDx Assay (Ventana Medical Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Alecensa (alectinib) NDA 208434,P140025/S006 (11/06/2017),2017-11-06
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Gilotrif (afatinib) NDA 201292,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Iressa (gefitinib) NDA 206995,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Tarceva (erlotinib) NDA 021743,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Tagrisso (osimertinib) NDA 208065,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Alecensa (alectinib) NDA 208434,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Xalkori (crizotinib) NDA 202570,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Zykadia (ceritinib) NDA 211225,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Tafinlar (dabrafenib) NDA 202806 in combination with Mekinist (trametinib) NDA 204114,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Breast Cancer - Tissue,Perjeta (pertuzumab) BLA 125409,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Breast Cancer - Tissue,Kadcyla (ado-trastuzumab emtansine) BLA 125427,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Colorectal Cancer - Tissue,Erbitux (cetuximab) BLA 125084,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Colorectal Cancer - Tissue,Vectibix (panitumumab) BLA 125147,P170019 (11/30/2017),2017-11-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Melanoma - Tissue,Mekinist (trametinib) NDA 204114,"P170019 (11/30/2017) Group Labeling, See table below",2017-11-30
+MRDx BCR-ABL Test (MolecularMD Corporation),Chronic Myeloid Leukemia - Peripheral Blood,Tasigna (nilotinib) NDA 022068,K173492 (12/22/2017),2017-12-22
+"BRACAnalysis CDx (Myriad Genetic Laboratories, Inc.)",Breast Cancer - Whole Blood,Lynparza (olaparib) NDA 208558,P140020/S012 (01/12/2018),2018-01-12
+"cobas EGFR Mutation Test v2 (Roche Molecular Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Tagrisso (osimertinib) NDA 208065,P120019/S018 (04/18/2018),2018-04-18
+"PD-L1 IHC 22C3 pharmDx (Dako North America, Inc.)",Cervical Cancer - Tissue,Keytruda (pembrolizumab) BLA 125514,P150013/S009 (06/12/2018),2018-06-12
+THXID BRAF Kit (bioMérieux Inc.),Melanoma - Tissue,Braftovi (encorafenib) NDA 210496 in combination with Mektovi (binimetinib) NDA 210498,P120014/S008 (06/27/2018),2018-06-27
+"Ventana PD-L1 (SP142) Assay (Ventana Medical Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Tecentriq (atezolizumab) BLA 761034,P160002/S006 (07/02/2018),2018-07-02
+"Abbott RealTime IDH1 (Abbott Molecular, Inc.)",Acute Myeloid Leukemia - Peripheral Blood or Bone Marrow,Tibsovo (ivosidenib) NDA 211192,P170041 (07/20/2018),2018-07-20
+"cobas EGFR Mutation Test v2 (Roche Molecular Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue or Plasma,Iressa (gefitinib) NDA 206995,P120019/S019 (08/22/0218),2018-08-22
+"therascreen EGFR RGQ PCR Kit (Qiagen Manchester, Ltd.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Vizimpro (dacomitinib) NDA 211288,P120022/S018 (09/27/2018),2018-09-27
+"BRACAnalysis CDx (Myriad Genetic Laboratories, Inc.)",Breast Cancer - Whole Blood,Talzenna (talazoparib) NDA 211651,P140020/S015 (10/16/2018),2018-10-16
+"BRACAnalysis CDx (Myriad Genetic Laboratories, Inc.)",Ovarian Cancer - Whole Blood,Rubraca (rucaparib) NDA 209115,P140020/S016 (10/16/2018),2018-10-16
+"LeukoStrat CDx FLT3 Mutation Assay (Invivoscribe Technologies, Inc.)",Acute Myelogenous Leukemia - Peripheral Blood or Bone Marrow,Xospata (gilterinib) NDA 211349,P160040/S002 (11/28/2018),2018-11-28
+therascreen FGFR RGQ RT-PCR Kit (QIAGEN Manchester Ltd.),Urothelial Cancer - Tissue,Balversa (erdafitinib) NDA 212018,P180043 (04/12/2019),2019-04-12
+"PATHWAY anti-Her2/neu (4B5) Rabbit Monoclonal Primary Antibody (Ventana Medical Systems, Inc.)",Breast Cancer - Tissue,Kadcyla (ado-trastuzumab emtansine) BLA 125427,P990081/S039 (05/03/2019),2019-05-03
+therascreen PIK3CA RGQ PCR Kit (QIAGEN GmbH),Breast Cancer - Tissue or Plasma,Piqray (alpelisib) NDA 212526,P190001 (05/24/2019) P190004 (05/24/2019),2019-05-24
+"PD-L1 IHC 22C3 pharmDx (Dako North America, Inc.)",Head and Neck Squamous Cell Carcinoma (HNSCC) - Tissue,Keytruda (pembrolizumab) BLA 125514,P150013/S014 (06/10/2019),2019-06-10
+"FoundationOne CDx (Foundation Medicine, Inc.)",Ovarian Cancer - Tissue,Lynparza (olaparib) NDA 208558,P170019/S004 (07/01/2019),2019-07-01
+"PD-L1 IHC 22C3 pharmDx (Dako North America, Inc.)",Esophageal Squamous Cell Carcinoma (ESCC) - Tissue,Keytruda (pembrolizumab) BLA 125514,P150013/S016 (07/30/2019),2019-07-30
+"FoundationOne CDx (Foundation Medicine, Inc.)",Breast Cancer - Tissue,Piqray (alpelisib) NDA 212526,P170019/S006 (12/03/2019),2019-12-03
+"BRACAnalysis CDx (Myriad Genetic Laboratories, Inc.)",Pancreatic Cancer - Whole Blood,Lynparza (olaparib) NDA 208558,P140020/S019 (12/27/2019),2019-12-27
+therascreen BRAF V600E RGQ PCR Kit (QIAGEN GmbH),Colorectal Cancer - Tissue,Braftovi (encorafenib) NDA 210496 in combination with Erbitux (cetuximab) BLA 125084,P190026 (04/15/2020),2020-04-15
+"FoundationOne CDx (Foundation Medicine, Inc.)",Cholangiocarcinoma - Tissue,Pemazyre (pemigatinib) NDA 213736,P170019/S013 (04/17/2020),2020-04-17
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Tabrecta (capmatinib) NDA 213591,P170019/S011 (05/06/2020),2020-05-06
+"Myriad myChoice CDx (Myriad Genetic Laboratories, Inc.)",Ovarian Cancer - Tissue,Lynparza (olaparib) NDA 208558,P190014/S003 (05/08/2020),2020-05-08
+"PD-L1 IHC 28-8 pharmDx (Dako North America, Inc.)",Non-small cell lung cancer (NSCLC) - Tissue,Opdivo (nivolumab) BLA 125554 in combination with Yervoy (ipilimumab) BLA 125377,P150025/S013 (05/15/2020),2020-05-15
+"BRACAnalysis CDx (Myriad Genetic Laboratories, Inc.)",Metastatic Castrate Resistant Prostate Cancer (mCRPC) - Whole Blood,Lynparza (olaparib) NDA 208558,P140020/S020 (05/19/2020),2020-05-19
+"FoundationOne CDx (Foundation Medicine, Inc.)",Metastatic Castrate Resistant Prostate Cancer (mCRPC) - Tissue,Lynparza (olaparib) NDA 208558,P170019/S015 (05/19/2020),2020-05-19
+Vysis ALK Break Apart FISH Probe Kit (Abbott Molecular Inc.),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Alunbrig (brigatinib) NDA 208772,P110012/S020 (05/22/2020),2020-05-22
+"FoundationOne CDx (Foundation Medicine, Inc.)",Solid Tumors - Tissue,Keytruda (pembrolizumab) BLA 125514,P170019/S016 (06/16/2020),2020-06-16
+"cobas EZH2 Mutation Test (Roche Molecular Systems, Inc.)",Follicular Lymphoma Tumor - Tissue,Tazverik (tazemetostat) NDA 213400,P200014 (06/18/2020),2020-06-18
+"Ventana HER2 Dual ISH DNA Probe Cocktail (Ventana Medical Systems, Inc.)",Breast Cancer - Tissue,Herceptin (trastuzumab) BLA 103792,P190031 (07/28/2020),2020-07-28
+"Guardant360 CDx (Guardant Health, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Tagrisso (osimertinib) NDA 208065,P200010 (08/07/2020),2020-08-07
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Iressa (gefitinib) NDA 206995,"P190032 (08/26/2020) P190032/S008 (12/19/2022) Group Labeling, See table below",2020-08-26
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Tagrisso (osimertinib) NDA 208065,"P190032 (08/26/2020) P190032/S008 (12/19/2022) Group Labeling, See table below",2020-08-26
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Tarceva (erlotinib) NDA 021743,"P190032 (08/26/2020) P190032/S008 (12/19/2022) Group Labeling, See table below",2020-08-26
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Metastatic Castrate Resistant Prostate Cancer (mCRPC) - Plasma,Rubraca (rucaparib) NDA 209115,P190032 (08/26/2020),2020-08-26
+Oncomine Dx Target Test (Life Technologies Corporation),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Gavreto (pralsetinib) NDA 213721,P160045/S019 (09/04/2020),2020-09-04
+"FoundationOne CDx (Foundation Medicine, Inc.)",Solid Tumors - Tissue,Vitrakvi (larotrectinib) NDA 210861,P170019/S017 (10/23/2020),2020-10-23
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Alecensa (alectinib) NDA 208434,P200006 (10/26/2020),2020-10-26
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Breast Cancer - Plasma,Piqray (alpelisib) NDA 212526,P200006 (10/26/2020),2020-10-26
+"cobas EGFR Mutation Test v2 (Roche Molecular Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue or Plasma,Tarceva (erlotinib) NDA 021743,"P120019/S031 (10/27/2020) Group Labeling, see table below",2020-10-27
+"cobas EGFR Mutation Test v2 (Roche Molecular Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue or Plasma,Gilotrif (afatinib) NDA 201292,"P120019/S031 (10/27/2020) Group Labeling, see table below",2020-10-27
+"cobas EGFR Mutation Test v2 (Roche Molecular Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue or Plasma,Tagrisso (osimertinib) NDA 208065,"P120019/S031 (10/27/2020) Group Labeling, see table below",2020-10-27
+"cobas EGFR Mutation Test v2 (Roche Molecular Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue or Plasma,,P120019/S031 (10/27/2020),2020-10-27
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Metastatic Castrate Resistant Prostate Cancer (mCRPC) - Plasma,Lynparza (Olaparib) NDA 208558,P200016 (11/06/2020),2020-11-06
+"PD-L1 IHC 22C3 pharmDx (Dako North America, Inc.)",Triple-Negative Breast Cancer (TNBC) - Tissue,Keytruda (pembrolizumab) BLA 125514,P150013/S020 (11/13/2020),2020-11-13
+"PD-L1 IHC 22C3 pharmDx (Dako North America, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Libtayo (cemiplimab-rwlc) BLA 761097,P150013/S021 (02/22/2021),2021-02-22
+"Ventana ALK (D5F3) CDx Assay (Ventana Medical Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Lorbrena (lorlatinib) NDA 210868,P140025/S014 (03/03/2021),2021-03-03
+"Ventana MMR RxDx Panel (Ventana Medical Systems, Inc.)",Endometrial Carcinoma (EC) - Tissue,Jemperli (dostarlimag-gxly) BLA 761174,P200019 (04/22/2021),2021-04-22
+"Guardant360 CDx (Guardant Health, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Rybrevant (amivantamb) BLA 761210,P200010/S001 (05/21/2021),2021-05-21
+"Guardant360 CDx (Guardant Health, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Lumakras (sotorasib) NDA 214665,P200010/S002 (05/28/2021),2021-05-28
+"therascreen KRAS RGQ PCR Kit (Qiagen Manchester, Ltd.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Lumakras (sotorasib) NDA 214665,P110027/S012 (05/28/2021),2021-05-28
+FoundationOne CDx (Foundation Medicine Inc.),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Alunbrig (brigatinib) NDA 208772,P170019/S023 (06/30/2021),2021-06-30
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Tabrecta (capmatinib) NDA 213591,P190032/S001 (07/15/2021),2021-07-15
+"ONCO/Reveal Dx Lung & Colon Cancer Assay (O/RDx-LCCA) (Pillar Biosciences, Inc.)",Colorectal Cancer - Tissue,Erbitux (cetuximab) BLA 125084,P200011 (07/30/2021),2021-07-30
+"ONCO/Reveal Dx Lung & Colon Cancer Assay (O/RDx-LCCA) (Pillar Biosciences, Inc.)",Colorectal Cancer - Tissue,Vectibix (panitumumab) BLA 125147,P200011 (07/30/2021),2021-07-30
+"ONCO/Reveal Dx Lung & Colon Cancer Assay (O/RDx-LCCA) (Pillar Biosciences, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,A tyrosine kinase inhibitor approved by FDA for that indication,"P200011 (07/30/2021) Group Labeling, See table below",2021-07-30
+"ONCO/Reveal Dx Lung & Colon Cancer Assay (O/RDx-LCCA) (Pillar Biosciences, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,,P200011 (07/30/2021),2021-07-30
+"Ventana MMR RxDx Panel (Ventana Medical Systems, Inc.)",Solid Tumors,Jemperli (dostarlimag-gxly) BLA 761174,P210001 (08/17/2021),2021-08-17
+Oncomine Dx Target Test (Life Technologies Corporation),Cholangiocarcinoma - Tissue,Tibsovo (ivosidenib) NDA 211192,P160045/S028 (08/25/2021),2021-08-25
+"Ventana PD-LI (SP263) Assay (Ventana Medical Systems, Inc)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Tecentriq (atezolizumab) BLA 761034,P160046/S010 (10/15/2021),2021-10-15
+"FoundationOne CDx (Foundation Medicine, Inc.)",Melanoma - Tissue,,P170019/S025 (11/10/2021),2021-11-10
+Oncomine Dx Target Test (Life Technologies Corporation),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Rybrevant (amivantamb) BLA 761210,P160045/S027 (12/01/2021),2021-12-01
+"FoundationOne CDx (Foundation Medicine, Inc.)",Melanoma - Tissue,Tecentriq (atezolizumab) BLA 761034 in combination with Cotellic (cobimetinib) NDA 206192 and Zelboraf (vemurafenib) NDA 202429,P170019/S030 (01/19/2022),2022-01-19
+"POMC/PCSK1/LEPR CDx Panel (PreventionGenetics, LLC)",Obesity - Blood or Saliva,Imcivree (setmelanotide acetate) NDA 213793,DEN200059 (01/21/2022),2022-01-21
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,,P170019/S033 (03/16/2022),2022-03-16
+"Ventana MMR RxDx Panel (Ventana Medical Systems, Inc.)",Solid Tumors,Keytruda (pembrolizumab) BLA 125514,P210001/S001 (03/21/2022),2022-03-21
+"FoundationOne CDx (Foundation Medicine, Inc.)",Solid Tumors - Tissue,Rozlytrek (entrectinib) NDA 212725,P170019/S014 (06/07/2022),2022-06-07
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Rozlytrek (entrectinib) NDA 212725,P170019/S014 (06/07/2022),2022-06-07
+"Ventana MMR RxDx Panel (Ventana Medical Systems, Inc.)",Endometrial Carcinoma (EC) - Tissue,Keytruda (pembrolizumab) BLA 125514 in combination with Lenvima (lenvatinib) NDA 206947,P210001/S002 (06/16/2022),2022-06-16
+"Guardant360 CDx (Guardant Health, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,ENHERTU (fam-trastuzumab deruxtecan-nxki) BLA 761139,P200010/S008 (08/11/2022),2022-08-11
+Oncomine Dx Target Test (Life Technologies Corporation),Non-Small Cell Lung Cancer (NSCLC) - Tissue,ENHERTU (fam-trastuzumab deruxtecan-nxki) BLA 761139,P160045/S035 (08/11/2022),2022-08-11
+Oncomine Dx Target Test (Life Technologies Corporation),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Retevmo (selpercatinib) NDA 213246,P160045/S031 (09/21/2022),2022-09-21
+Oncomine Dx Target Test (Life Technologies Corporation),Medullary Thyroid Cancer (MTC) - Tissue,Retevmo (selpercatinib) NDA 213246,P160045/S031 (09/21/2022),2022-09-21
+Oncomine Dx Target Test (Life Technologies Corporation),Thyroid Cancer (TC) - Tissue,Retevmo (selpercatinib) NDA 213246,P160045/S031 (09/21/2022),2022-09-21
+"PATHWAY anti-Her2/neu (4B5) Rabbit Monoclonal Primary Antibody (Ventana Medical Systems, Inc.)",Breast Cancer - Tissue,Enhertu (fam-trastuzumab deruxtecan-nxki) BLA 761139,P990081/S047 (09/30/2022),2022-09-30
+"Ventana FOLR1 (FOLR-2.1) RxDx Assay (Ventana Medical Systems, Inc.)","Epithelial Ovarian Cancer, Fallopian Tube Cancer, or Primary Peritoneal Cancer - Tissue",Elahere (mirvetuximab soravtansine-gynx) BLA 761310,P220006 (11/14/2022),2022-11-14
+SeCore CDx HLA Sequencing System (One Lambda Inc.),Uveal Melanoma – Whole Blood,Kimmtrak (tebentafusp-tebn) BLA 761228,BR220737 (11/28/2022),2022-11-28
+"Abbott RealTime IDH1 (Abbott Molecular, Inc.)",Acute Myeloid Leukemia - Peripheral Blood or Bone Marrow,Rezlidhia (olutasidenib) NDA 215814,P170041/S006 (12/01/2022),2022-12-01
+"therascreen KRAS RGQ PCR Kit (Qiagen Manchester, Ltd.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Krazati (adagrasib) NDA 216340,P110027/S013 (12/02/2022),2022-12-02
+"Agilent Resolution ctDx FIRST assay (Resolution Bioscience, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Krazati (adagrasib) NDA 216340,P210040 (12/12/2022),2022-12-12
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,,P190032/S008 (12/19/2022),2022-12-19
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Rozlytrek (entrectinib) NDA 212725,P190032/S004 (12/22/2022),2022-12-22
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Solid Tumors - Plasma,Rozlytrek (entrectinib) NDA 212725,P190032/S004 (12/22/2022),2022-12-22
+"Guardant360 CDx (Guardant Health, Inc.)",Breast Cancer - Plasma,Orserdu (elacestrant) NDA 217639,P200010/S010 (01/27/2023),2023-01-27
+"Ventana PD-L1 (SP263) Assay (Ventana Medical Systems, Inc.)",Non-Small Cell Lung Cancer (NSCLC) – Tissue,Libtayo (cemiplimab-rwlc) – BLA 761097,P160046/S013 (03/01/2023),2023-03-01
+"xT CDx (Tempus Labs, Inc.)",Colorectal Cancer (CRC) - Tissue (Matching Blood/Saliva),Erbitux (cetuximab) BLA 125084,P210011 (04/28/2023),2023-04-28
+"xT CDx (Tempus Labs, Inc.)",Colorectal Cancer (CRC) - Tissue (Matching Blood/Saliva),Vectibix (panitumumab) BLA 125147,P210011 (04/28/2023),2023-04-28
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Metastatic Colorectal Cancer (mCRC) - Plasma,BRAFTOVI (encorafenib) NDA 210496 in combination with cetuximab BLA 125084,P190032/S010 (06/08/2023),2023-06-08
+therascreen PDGFRA RGQ PCR Kit (QIAGEN GmbH),Gastrointestinal Stromal Tumors (GIST) - Tissue,AYVAKIT (Avapritinib) NDA 212608,P210002 (06/29/2023),2023-06-29
+AAV5 DetectCDx (ARUP Laboratories),Hemophilia A Patients - Plasma,ROCTAVIAN (valoctocogene roxaparvovec-rvox) BLA 125720,P190033 (06/29/2023),2023-06-29
+"LeukoStrat CDx FLT3 Mutation Assay (Invivoscribe Technologies, Inc.)",Acute Myelogenous Leukemia (AML) - Peripheral Blood or Bone Marrow,VANFLYTA (quizartinib) NDA 216993,P160040/S011 (07/20/2023),2023-07-20
+"FoundationOne CDx (Foundation Medicine, Inc.)",Prostate Cancer - Tissue,AKEEGA (niraparib + abiraterone acetate) NDA 216793,P170019/S042 (08/11/2023),2023-08-11
+"CRCDx RAS Mutation Detection Assay Kit (EntroGen, Inc.)",Colorectal Cancer (CRC) - Tissue,Vectibix (panitumumab) BLA 125147,P220005 (09/29/2023),2023-09-29
+Oncomine Dx Target Test (Life Technologies Corporation),Anaplastic Thyroid Cancer (ATC) - Tissue,Tafinlar (dabrafenib) NDA 202806 in combination with Mekinist (trametinib) NDA 204114,P160045/S025 (09/29/2023),2023-09-29
+"FoundationOne CDx (Foundation Medicine, Inc.)",Solid Tumors - Tissue,RETEVMO (selpercatinib) NDA214246,P170019/S043 (10/06/2023),2023-10-06
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,BRAFTOVI (encorafenib) NDA210496 in combination with MEKTOVI (binimetinib) NDA210498,P170019/S039 (10/11/2023),2023-10-11
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,BRAFTOVI (encorafenib) NDA210496 in combination with MEKTOVI (binimetinib) NDA210498,P190032/S011 (10/11/2023),2023-10-11
+"Abbott RealTime IDH1 (Abbott Molecular, Inc.)",Myelodysplastic Syndromes (MDS) - Peripheral Blood or Bone Marrow,Tibsovo (ivosidenib) NDA 211192,P170041/S007 (10/24/2023),2023-10-24
+"PD-L1 IHC 22C3 pharmDx (Dako North America, Inc.)",Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma - Tissue,Keytruda (pembrolizumab) BLA 125514,P150013/S027 (11/07/2023),2023-11-07
+"FoundationOne CDx (Foundation Medicine, Inc.)",Breast Cancer - Tissue,TRUQAP (capivasertib) NDA218197 in combination with FASLODEX (fulvestrant) NDA021344,P170019/S048 (11/16/2023),2023-11-16
+nAbCyte Anti-AAVRh74var HB-FE Assay (Labcorp Drug Development),Moderate to severe Hemophilia B patients - Serum,BEQVEZ (fidanacogene elaparvovec) BLA 125786,H230005 (04/25/2024),2024-04-25
+"therascreen KRAS RGQ PCR Kit (Qiagen Manchester, Ltd.)",Colorectal Cancer - Tissue,Krazati (adagrasib) in combination with Erbitux (cetuximab) – NDA 216340,P110027/S017 (06/21/2024),2024-06-21
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Metastatic Castrate Resistant Prostate Cancer (mCRPC) - plasma,AKEEGA (niraparib +abiraterone acetate) NDA 216793,P190032/S014 (06/28/ 2024),2024-06-28
+"SeCore CDx HLA Sequencing System (One Lambda, Inc.)",Synovial sarcoma – Whole blood,Tecelra (afamitresgene autoleucel) - BLA 125789,BK241074 (08/01/2024),2024-08-01
+"MAGE-A4 IHC 1F9 pharmDx (Agilent Technologies, Inc.)",Synovial sarcoma - Tissue,Tecelra (afamitresgene autoleucel) – BLA 125789,P230016 (08/01/2024),2024-08-01
+"TruSight Oncology Comprehensive (Illumina, Inc.)",Solid Tumors - Tissue,Vitrakvi (larotrectinib) NDA 210861,P230011 (08/21/2024),2024-08-21
+"TruSight Oncology Comprehensive (Illumina, Inc.)",Non-Small Cell Lung Cancer (NSCLC) – Tissue,Retevmo (selpercatinib) NDA 213246,P230011 (08/21/2024),2024-08-21
+"FoundationOne CDx (Foundation Medicine, Inc.)",Metastatic Castrate Resistant Prostate Cancer (mCRPC) - Tissue,Lynparza (olaparib) NDA 208558 in combination with abiraterone,P170019/S052 (08/30/2024),2024-08-30
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Metastatic Castrate Resistant Prostate Cancer (mCRPC) - Plasma,Lynparza (olaparib) NDA 208558 in combination with abiraterone,P190032/S016 (08/30/2024),2024-08-30
+Oncomine Dx Target Test (Life Technologies Corporation),Astrocytoma and Oligodendroglioma - Tissue,VORANIGO (vorasidenib) – NDA 218784,P160045/S046 (09/18/2024),2024-09-18
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Breast Cancer - Plasma,ITOVEBI (inavolisib) NDA 219249 in combination with palbociclib and fulvestrant,P190032/S023 (10/10/2024),2024-10-10
+"VENTANA CLDN18 (43-14A) RxDx Assay (Ventana Medical Systems, Inc.)",Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma - Tissue,VYLOY (zolbetuximab) – BLA 761365,P230018 (10/18/2024),2024-10-18
+MI Cancer Seek (MCS) (Caris Life Sciences),Breast Cancer - Tissue,Piqray (alpelisib) – NDA 212526,P240010 (11/05/2024),2024-11-05
+MI Cancer Seek (MCS) (Caris Life Sciences),Colorectal Cancer - Tissue,Vectibix (panitumumab) – BLA 125147,P240010 (11/05/2024),2024-11-05
+MI Cancer Seek (MCS) (Caris Life Sciences),Colorectal Cancer - Tissue,BRAFTOVI (encorafenib) NDA 210496 in combination with ERBITUX (cetuximab) BLA 125084,P240010 (11/05/2024),2024-11-05
+MI Cancer Seek (MCS) (Caris Life Sciences),Melanoma - Tissue,Mekinist (trametinib) NDA 204114,P240010 (11/05/2024),2024-11-05
+MI Cancer Seek (MCS) (Caris Life Sciences),Solid Tumors - Tissue,Keytruda (pembrolizumab) BLA 125514,P240010 (11/05/2024),2024-11-05
+MI Cancer Seek (MCS) (Caris Life Sciences),Solid Tumors - Tissue,Jemperli (dostarlimab-gxly) – BLA 761223,P240010 (11/05/2024),2024-11-05
+MI Cancer Seek (MCS) (Caris Life Sciences),Endometrial Carcinoma (EC) - Tissue,Keytruda (pembrolizumab) BLA 125514 in combination with Lenvima (lenvatinib) NDA 206947,P240010 (11/05/2024),2024-11-05
+MI Cancer Seek (Caris Life Sciences),Melanoma - Tissue,,P240010 (11/05/2024),2024-11-05
+MI Cancer Seek (Caris Life Sciences),Non-Small Cell Lung Cancer (NSCLC) - Tissue,,P240010 (11/05/2024),2024-11-05
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Non-Small Cell Lung Cancer (NSCLC) - Plasma,Tepmetko (tepotinib) – NDA 214096,P190032/S015 (11/14/2024),2024-11-14
+"PATHWAY anti-Her2/neu (4B5) Rabbit Monoclonal Primary Antibody (Ventana Medical Systems, Inc.)","Biliary Tract Cancer (gallbladder adenocarcinoma, intrahepatic cholangiocarcinoma, and extrahepatic cholangiocarcinoma) - Tissue",Ziihera (zanidatamab-hrii) – BLA 761416,P990081/S054 (11/20/2024),2024-11-20
+"Ventana MMR RxDx Panel (Ventana Medical Systems, Inc.)",Endometrial Carcinoma (EC) - Tissue,Imfinzi (durvalumab) BLA 761069,P210001/S013 (12/18/2024),2024-12-18
+"therascreen KRAS RGQ PCR Kit (Qiagen Manchester, Ltd.)",Colorectal Cancer – Tissue,Lumakras (sotorasib) NDA 214665 in combination with Vectibix (panitumumab) – BLA 125147,P110027/S018 (01/16/2025),2025-01-16
+"FoundationOne CDx (Foundation Medicine, Inc.",Low-Grade Glioma - Tissue,Ojemda (tovorafenib) – NDA 217700 and NDA 218033,P170019/S054 (01/16/2025),2025-01-16
+"PATHWAY anti-Her2/neu (4B5) Rabbit Monoclonal Primary Antibody (Ventana Medical Systems, Inc.)",Breast Cancer – Tissue,Enhertu (fam-trastuzumab deruxtecan-nxki) BLA 761139,P990081/S055 (01/27/2025),2025-01-27
+INNOVANCE Antithrombin (Siemens Healthcare Diagnostic Products GmbH.),Hemophilia A patients with or without factor VIII inhibitors and Hemophilia B patients with or without IX inhibitors - Plasma,QFITLIA (fitusiran) NDA 219019,K242952 (03/28/2025),2025-03-28
+"VENTANA MET (SP44) RxDx Assay (Ventana Medical Systems, Inc. (Roche Tissue Diagnostics)",Non-Small Cell Lung Cancer (NSCLC) - Tissue,Emrelis (telisotuzumab vedotin-tllv) BLA 761384,P240037 (05/14/2025),2025-05-14
+ConcizuTrace ELISA (Randox Laboratories Ltd.),Hemophilia A patients with or without factor VIII inhibitors and Hemophilia B patients with or without IX inhibitors - Plasma,Alhemo (concizumab) BLA 761315 and BLA 761428,DEN240035 (05/22/2025),2025-05-22
+Oncomine Dx Express Test (Life Technologies Corporation),Non-Small Cell Lung Cancer (NSCLC) - Tissue,Zegfrovy (sunvozertinib) NDA 219839,P240040 (07/02/2025),2025-07-02
+Quest Diagnostics AAVrh74 Antibody ELISA CDx (Quest Diagnostics Nichols Institute),Duchenne muscular dystrophy – Serum,ELEVIDYS (delandistrogene moxeparvovec-rokl) BLA 125781,P250002 (07/24/2025),2025-07-24
+Vysis ALK Break Apart FISH Probe Kit (Abbott Molecular Inc.),Non-Small Cell Lung Cancer (NSCLC) - Tissue,ENSACOVE (ensartinib) NDA 218171,P110012/S022 (08/05/2025),2025-08-05
+Oncomine Dx Target Test (Life Technologies Corporation),Non-Small Cell Lung cancer (NSCLC) - Tissue,HERNEXEOS (zongertinib) NDA 219042,P160045/S049 (08/08/2025),2025-08-08
+"MMR IHC Panel pharmDx (Dako Omnis) (Agilent Technologies, Inc.)",Colorectal Cancer (CRC) - Tissue,OPDIVO (nivolumab) alone BLA 125554 or OPDIVO (nivolumab) in combination with YERVOY (ipilimumab) BLA 125377,P250004 (08/15/2025),2025-08-15
+"Idylla CDx MSI Test (Biocartis US, Inc.)",Colorectal Cancer (CRC) - Tissue,OPDIVO (nivolumab) alone BLA 125554 or OPDIVO (nivolumab) in combination with YERVOY (ipilimumab) BLA 125377,P250005 (08/15/2025),2025-08-15
+KMT2A Breakapart FISH Probe Kit PDx (CDA-LPH013) (Cytocell Limited),Acute Leukemia – Bone Marrow,REVUFORJ (revumenib) NDA 218944,DEN240067 (09/19/2025),2025-09-19
+"Guardant360 CDx (Guardant Health, Inc.)",Breast Cancer - Plasma,Imlunestrant (Inluriyo) NDA 218881,P200010/S021 (09/25/2025),2025-09-25
+OncoMate MSI Dx Analysis System (Promega Corporation),Endometrial Carcinoma (EC) – Tissue,Keytruda (pembrolizumab) BLA 125514 in combination with Lenvima (lenvatinib) NDA 206947,P240026 (11/05/2025),2025-11-05
+Oncomine Dx Target Test (Life Technologies Corporation),Non-Small Cell Lung cancer (NSCLC) - Tissue,HYRNUO (sevabertinib) NDA 219972,P160045/S050 (11/19/2025),2025-11-19
+"PATHWAY anti-Her2/neu (4B5) Rabbit Monoclonal Primary Antibody (Ventana Medical Systems, Inc.)",Breast Cancer – Tissue,ENHERTU (fam-trastuzumab deruxtecan-nxki) + PERJETA (pertuzumab) BLA 761139,P990081/S059 (12/15/2025),2025-12-15
+"Ventana HER2 Dual ISH DNA Probe Cocktail (Ventana Medical Systems, Inc.)",Breast Cancer – Tissue,ENHERTU (fam-trastuzumab deruxtecan-nxki) + PERJETA (pertuzumab) BLA 761139,P190031/S014 (12/15/2025),2025-12-15
+"Guardant360 CDx (Guardant Health, Inc.)",Colorectal Cancer (CRC) - Plasma,BRAFTOVI (encorafenib) NDA 210496 in combination with ERBITUX (cetuximab) BLA 125084,P200010/S026 (01/15/2026),2026-01-15
+"PD-L1 IHC 22C3 pharmDx (Agilent Technologies, Inc.)","Epithelial Ovarian, Fallopian Tube Cancer, or Primary Peritoneal Carcinoma (EOC)- Tissue",Keytruda (pembrolizumab) BLA 125514,P150013/S033 (02/10/2026),2026-02-10
+"PD-L1 IHC 22C3 pharmDx (Agilent Technologies, Inc.)",Esophageal or Gastroesophageal Junction (GEJ) Carcinoma - Tissue,Keytruda (pembrolizumab) BLA 125514,P150013/S032 (02/11/2026),2026-02-11
+"Myriad myChoice CDx (Myriad Genetic Laboratories, Inc.)",Ovarian Cancer-Tissue,Zejula (niraparib) NDA 214876,P190014/S011 (03/10/2026),2026-03-10
+"Guardant360 CDx (Guardant Health, Inc.)",Breast Cancer - Plasma,VEPANNU (vepdegestrant) NDA 219835,P200010/S025 (05/01/2026),2026-05-01
+"FoundationOne CDx (Foundation Medicine, Inc.)",Non-small cell lung cancer (NSCLC) - Tissue,TEPMETKO® (tepotinib) NDA 214096,P170019/S067 (05/12/2026),2026-05-12
+"PATHWAY anti-HER-2/neu (4B5) Rabbit Monoclonal Primary Antibody (PATHWAY anti-HER2 (4B5) antibody) (Ventana Medical Systems, Inc.)",Breast Cancer- Tissue,ENHERTU® (fam-trastuzumab deruxtecan-nxki) BLA 761139,P990081/S058 (05/15/2026),2026-05-15
+"VENTANA HER2 Dual ISH DNA Probe Cocktail (Ventana Medical Systems, Inc.)",Breast Cancer- Tissue,ENHERTU® (fam-trastuzumab deruxtecan-nxki) BLA 761139,P190031/S015 (05/15/2026),2026-05-15
+"Signatera CDx (Natera, Inc.)",Muscle Invasive Bladder Cancer (MIBC) - Plasma,"TECENTRIQ (atezolizumab), TECENTRIQ HYBREZA (atezolizumab and hyaluronidase-tqjs) BLA 761347",P260004 (05/15/2026),2026-05-15
+"Guardant360® Liquid CDx (Guardant Health, Inc.)",Breast cancer - Plasma,ORSERDU™ (elacestrant) NDA 217639,P250027 (05/19/2026),2026-05-19
+"Guardant360® Liquid CDx (Guardant Health, Inc.)",Breast Cancer - Plasma,INLURIYO™ (imlunestrant) NDA 218881,P250027 (05/19/2026),2026-05-19
+"Guardant360® Liquid CDx (Guardant Health, Inc.)",Colorectal cancer - Plasma,BRAFTOVI (encorafenib) NDA 210496 in combination with cetuximab BLA 125084,P250027 (05/19/2026),2026-05-19
+"Guardant360® Liquid CDx (Guardant Health, Inc.)",Non-small cell lung cancer (NSCLC) - Plasma,TAGRISSO® (osimertinib) NDA 208065,P250027 (05/19/2026),2026-05-19
+"Guardant360® Liquid CDx (Guardant Health, Inc.)",Non-small cell lung cancer (NSCLC) - Plasma,RYBREVANT® (amivantamab-vmjw) BLA 761210,P250027 (05/19/2026),2026-05-19
+"Guardant360® Liquid CDx (Guardant Health, Inc.)",Non-small cell lung cancer (NSCLC) - Plasma,LUMAKRAS™ (sotorasib) NDA 214665,P250027 (05/19/2026),2026-05-19
+"Guardant360® Liquid CDx (Guardant Health, Inc.)",Non-small cell lung cancer (NSCLC) - Plasma,ENHERTU® (fam-trastuzumab deruxtecan nxki) BLA 761139,P250027 (05/19/2026),2026-05-19
+"FoundationOne CDx (Foundation Medicine, Inc.)",Metastatic Castrate Resistant Prostate cancer (mCRPC)-Tissue,TALZENNA (talazoparib) in combination with XTANDI (enzalutamide) NDA 211651/S010,P170019/S060 (05/27/2026),2026-05-27
+"FoundationOne Liquid CDx (Foundation Medicine, Inc.)",Metastatic Castrate Resistant Prostate cancer (mCRPC)-Plasma,TALZENNA (talazoparib) in combination with XTANDI (enzalutamide) NDA 211651/S010,P190032/S029 (05/27/2026),2026-05-27
+"FoundationOne CDx (Foundation Medicine, Inc.)",Breast Cancer - Plasma,ITOVEBI (inavolisib) NDA 219249 in combination with palbociclib and fulvestrant,P170019/S062 (05/27/2026),2026-05-27
+"Guardant360 CDx (Guardant Health, Inc.)",Non-small cell lung cancer (NSCLC) - Plasma,HERNEXEOS (zongertinib) NDA 219042,P200010/S027 (06/10/2026),2026-06-10
+"VENTANA PTEN (SP218) RxDx Assay (Ventana Medical Systems, Inc.) (Roche Tissue Diagnostics)",Metastatic hormone-sensitive prostate cancer (mHSPC) - Tissue,TRUQAP (Capivasertib) NDA 218197,P250031 (06/12/2026),2026-06-12
+"PD-L1 IHC 28-8 pharmDx (Agilent Technologies, Inc.)","Esophageal squamous cell carcinoma (ESCC), and gastric, gastroesophageal junction (GEJ), and esophageal adenocarcinoma -Tissues",OPDIVO (nivolumab) or OPDIVO QVANTIGTM (hyaluronidase-nvhy) BLA 125554,P150025/S018 (07/01/2026),2026-07-01

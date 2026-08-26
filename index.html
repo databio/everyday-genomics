@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Everyday genomics metrics</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 960px; margin: 2rem auto; padding: 0 1rem; color: #222; }
+    h2 { margin-top: 2.5rem; font-size: 1.1rem; }
+    .row { display: flex; flex-wrap: wrap; gap: 1rem; }
+    code { background: #f3f3f3; padding: 0.1em 0.3em; }
+    .vega-actions a { margin-right: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Everyday genomics metrics</h1>
+  <p>Monthly indicators that genomics is becoming part of everyday life, refreshed automatically.
+     Data: <code>data/&lt;metric&gt;.csv</code> (columns <code>date,value,source,notes</code>).
+     Static plots: <code>plots/light/</code> and <code>plots/dark/</code>.
+     <a href="https://github.com/databio/everyday-genomics">Source on GitHub</a>.</p>
+  <p><strong>How to use this data:</strong> see <a href="SKILL.md">SKILL.md</a>
+     (API endpoints, pandas and Vega-Lite examples; written so an AI agent can build charts from it).</p>
+  <p>Embed a live chart elsewhere with <code>vegaEmbed</code> pointing at any CSV below, or
+     <code>&lt;img src=".../plots/light/&lt;metric&gt;.svg"&gt;</code> for a static one.</p>
+  <div id="charts"></div>
+  <script>
+    const base = new URL(".", location.href).href;
+    fetch(base + "config.json").then(r => r.json()).then(cfg => {
+      const root = document.getElementById("charts");
+      for (const [name, m] of Object.entries(cfg.metrics)) {
+        const h = document.createElement("h2");
+        h.textContent = m.title;
+        const row = document.createElement("div"); row.className = "row";
+        const a = document.createElement("div"); a.id = name + "-m";
+        const b = document.createElement("div"); b.id = name + "-c";
+        row.append(a, b); root.append(h, row);
+        const url = base + "data/" + name + ".csv";
+        const cum = m.kind === "cumulative";
+        const data = {url, format: {type: "csv", parse: {value: "number"}}};
+        const x = {field: "date", type: "temporal", title: null};
+        // cumulative-kind metrics store a running total; derive the monthly increment
+        const monthlyTf = cum ? [{window: [{op: "lag", field: "value", as: "prev"}], sort: [{field: "date"}]},
+                                 {calculate: "datum.prev == null ? datum.value : max(0, datum.value - datum.prev)", as: "inc"}] : [];
+        const cumTf = cum ? [{calculate: "datum.value", as: "cum"}]
+                          : [{window: [{op: "sum", field: "value", as: "cum"}], sort: [{field: "date"}]}];
+        vegaEmbed("#" + a.id, {
+          $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+          data, width: 380, height: 180, title: cum ? "new / month" : m.unit,
+          transform: monthlyTf,
+          mark: {type: "bar", color: "#b8c4d6"},
+          encoding: {x, y: {field: cum ? "inc" : "value", type: "quantitative", title: null},
+                     tooltip: [{field: "date", type: "temporal", format: "%Y-%m"}, {field: cum ? "inc" : "value"}]}
+        }, {actions: false});
+        vegaEmbed("#" + b.id, {
+          $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+          data, width: 380, height: 180, title: "cumulative",
+          transform: cumTf,
+          mark: {type: "area", color: "#1f4e8c", opacity: 0.8},
+          encoding: {x, y: {field: "cum", type: "quantitative", title: null},
+                     tooltip: [{field: "date", type: "temporal", format: "%Y-%m"}, {field: "cum"}]}
+        }, {actions: false});
+      }
+    });
+  </script>
+</body>
+</html>

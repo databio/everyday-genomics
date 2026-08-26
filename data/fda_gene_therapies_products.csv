@@ -1,0 +1,54 @@
+product,approval_date,url,excluded
+ABECMA (idecabtagene vicleucel),2021-03-26,https://www.fda.gov/vaccines-blood-biologics/abecma,
+ADSTILADRIN (nadofaragene firadenovec-vcng),2022-12-16,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/adstiladrin,
+"ALLOCORD (HPC, Cord Blood)",,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/allocord-hpc-cord-blood,cord_blood
+AMTAGVI (lifileucel),2024-02-16,https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/amtagvi,
+AUCATZYL (obecabtagene autoleucel),2024-11-08,https://www.fda.gov/vaccines-blood-biologics/aucatzyl,
+BEQVEZ (fidanacogene elaparvovec-dzkt),2024-04-25,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/beqvez,
+BREYANZI (lisocabtagene maraleucel),2021-02-05,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/breyanzi,
+CARVYKTI (ciltacabtagene autoleucel),2022-02-28,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/carvykti,
+CASGEVY (exagamglogene autotemcel [exa-cel]),2023-12-08,https://www.fda.gov/vaccines-blood-biologics/casgevy,
+CLEVECORD (HPC Cord Blood),,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/clevecord-hpc-cord-blood,cord_blood
+"Ducord, HPC Cord Blood",,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/ducord,cord_blood
+ELEVIDYS (delandistrogene moxeparvovec-rokl),2024-01-10,https://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products/elevidys,
+ENCELTO (revakinagene taroretcel-lwey),2025-03-05,https://www.fda.gov/vaccines-blood-biologics/center-biologics-evaluation-and-research-cber-product-approval-information/encelto,
+GENGLYCOS (pariglasgene brecaparvovec-opnr),2026-08-19,https://www.fda.gov/vaccines-blood-biologics/genglycos,
+GINTUIT (Allogeneic Cultured Keratinocytes and Fibroblasts in Bovine Collagen),2012-03-09,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/gintuit-allogeneic-cultured-keratinocytes-and-fibroblasts-bovine-collagen,
+"HEMACORD (HPC, cord blood)",,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/hemacord-hpc-cord-blood,cord_blood
+HEMGENIX (etranacogene dezaparvovec-drlb),2022-11-22,https://www.fda.gov/vaccines-blood-biologics/vaccines/hemgenix,
+"HPC, Cord Blood",,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/hpc-cord-blood,cord_blood
+"HPC, Cord Blood - Bloodworks",,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/hpc-cord-blood-bloodworks,cord_blood
+"HPC, Cord Blood - LifeSouth",,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/hpc-cord-blood-lifesouth,cord_blood
+"HPC, Cord Blood - MD Anderson Cord Blood Bank",,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/hpc-cord-blood-md-anderson-cord-blood-bank,cord_blood
+IMLYGIC (talimogene laherparepvec),2015-10-27,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/imlygic,
+ITVISMA (onasemnogene abeparvovec-brve),2025-11-24,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/itvisma,
+KEBILIDI (eladocagene exuparvovec-tneq),2024-11-13,https://www.fda.gov/vaccines-blood-biologics/kebilidi,
+KRESLADI (marnetegragene autotemcel),2026-03-26,https://www.fda.gov/vaccines-blood-biologics/kresladi,
+KYMRIAH (tisagenlecleucel),2017-08-30,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/kymriah,
+LANTIDRA (donislecel),2023-06-28,https://www.fda.gov/vaccines-blood-biologics/lantidra,
+LAVIV (Azficel-T),2011-06-21,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/laviv,
+LENMELDY (atidarsagene autotemcel),2024-03-18,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/lenmeldy,
+LUXTURNA (voretigene neparvovec-rzyl),2017-12-19,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/luxturna,
+LYFGENIA (lovotibeglogene autotemcel [lovo-cel]),2023-12-08,https://www.fda.gov/vaccines-blood-biologics/lyfgenia,
+MACI (Autologous Cultured Chondrocytes on a Porcine Collagen Membrane),2016-12-13,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/maci-autologous-cultured-chondrocytes-porcine-collagen-membrane,
+OMISIRGE (omidubicel-onlv),2023-04-17,https://www.fda.gov/vaccines-blood-biologics/omisirge,
+OTARMENI™ (lunsotogene parvec cwha),2026-04-23,https://www.fda.gov/vaccines-blood-biologics/otarmeni,
+PAPZIMEOS (zopapogene imadenovec-drba),2025-08-14,https://www.fda.gov/vaccines-blood-biologics/papzimeos,
+PROVENGE (sipuleucel-T),2010-04-29,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/provenge-sipuleucel-t,
+"REGENECYTE (HPC, Cord Blood)",,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/regenecyte,cord_blood
+RETHYMIC (allogeneic processed thymus tissue – agdc),2021-10-08,https://www.fda.gov/vaccines-blood-biologics/rethymic,
+ROCTAVIAN (valoctocogene roxaparvovec-rvox),2023-06-30,https://www.fda.gov/vaccines-blood-biologics/roctavian,
+RYONCIL (remestemcel-L-rknd),2024-12-19,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/ryoncil,
+SKYSONA (elivaldogene autotemcel),2022-09-16,https://www.fda.gov/vaccines-blood-biologics/skysona,
+STRATAGRAFT (allogeneic cultured keratinocytes and dermal fibroblasts in murine collagen-dsat),2021-06-15,https://www.fda.gov/vaccines-blood-biologics/stratagraft,
+SYMVESS (acellular tissue engineered vessel-tyod),2024-12-19,https://www.fda.gov/vaccines-blood-biologics/symvess,
+TECARTUS (brexucabtagene autoleucel),2020-07-24,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/tecartus,
+TECELRA (afamitresgene autoleucel),2024-08-01,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/tecelra,
+TREGZI (Allogeneic regulatory T cell immunotherapy with HSPC and T cells-vldq),2026-07-01,https://www.fda.gov/vaccines-blood-biologics/tregzi,
+TUDRIQEV (vusolimogene oderparepvec-wtpg,2026-08-06,https://www.fda.gov/vaccines-blood-biologics/tudriqev,
+VYJUVEK (beremagene geperpavec-svdt),2023-05-19,https://www.fda.gov/vaccines-blood-biologics/vyjuvek,
+WASKYRA (etuvetidigene autotemcel),2025-12-09,https://www.fda.gov/vaccines-blood-biologics/waskyra,
+YESCARTA (axicabtagene ciloleucel),2017-10-18,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/yescarta,
+ZEVASKYN (prademagene zamikeracel),2025-04-28,https://www.fda.gov/vaccines-blood-biologics/zevaskyn,
+ZOLGENSMA (onasemnogene abeparvovec-xioi),2019-05-24,https://www.fda.gov/vaccines-blood-biologics/zolgensma,
+ZYNTEGLO (betibeglogene autotemcel),2022-08-17,https://www.fda.gov/vaccines-blood-biologics/zynteglo,

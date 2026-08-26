@@ -1,0 +1,75 @@
+{
+  "backfill_start": "2000-01",
+  "refresh_months": 3,
+  "ncbi_api_key_env": "NCBI_API_KEY",
+  "metrics": {
+    "pubmed_genomics": {
+      "source": "pubmed",
+      "title": "PubMed papers mentioning genomics",
+      "query": "genomics[tiab] OR genomic[tiab]",
+      "unit": "papers / month"
+    },
+    "pubmed_crispr": {
+      "source": "pubmed",
+      "title": "PubMed papers mentioning CRISPR",
+      "query": "CRISPR[tiab]",
+      "unit": "papers / month"
+    },
+    "pubmed_genetic_testing": {
+      "source": "pubmed",
+      "title": "PubMed papers on genetic testing",
+      "query": "\"genetic testing\"[tiab] OR \"genetic test\"[tiab]",
+      "unit": "papers / month"
+    },
+    "trials_gene_therapy": {
+      "source": "clinicaltrials",
+      "title": "Clinical trials registered mentioning gene therapy",
+      "query": "\"gene therapy\"",
+      "unit": "trials / month"
+    },
+    "trials_crispr": {
+      "source": "clinicaltrials",
+      "title": "Clinical trials registered mentioning CRISPR",
+      "query": "CRISPR",
+      "unit": "trials / month"
+    },
+    "trials_genetic": {
+      "source": "clinicaltrials",
+      "title": "Clinical trials registered mentioning genetic or genomic",
+      "query": "genetic OR genomic",
+      "unit": "trials / month"
+    },
+    "sra_experiments": {
+      "source": "sra",
+      "title": "Sequencing experiments submitted to NCBI SRA",
+      "query": "",
+      "unit": "experiments / month"
+    },
+    "fda_companion_diagnostics": {
+      "source": "fda_companion_diagnostics",
+      "title": "FDA-approved companion diagnostic indications",
+      "unit": "cumulative approvals",
+      "kind": "cumulative"
+    },
+    "fda_gene_therapies": {
+      "source": "fda_cgt",
+      "title": "FDA-approved cellular and gene therapy products",
+      "unit": "cumulative products",
+      "kind": "cumulative"
+    },
+    "species_with_genomes": {
+      "source": "goat",
+      "title": "Eukaryotic species with a chromosome-level genome assembly",
+      "unit": "cumulative species",
+      "kind": "cumulative",
+      "query": "tax_tree(2759) AND assembly_level=chromosome"
+    },
+    "clinvar_variants": {
+      "source": "clinvar",
+      "title": "Variant records in NCBI ClinVar",
+      "query": "",
+      "unit": "cumulative variants",
+      "kind": "cumulative"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: '0 9 2 * *'   # 2nd of each month, 09:00 UTC (data from prior month settled)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: python3 -m pip install -r requirements.txt
+      - name: Update PubMed counts
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python3 scripts/update_pubmed.py
+      - name: Update SRA counts
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python3 scripts/update_sra.py
+      - name: Update ClinicalTrials.gov counts
+        run: python3 scripts/update_clinicaltrials.py
+      - name: Update FDA gene therapy products
+        run: python3 scripts/update_fda_gene_therapies.py
+      - name: Update FDA companion diagnostics
+        run: python3 scripts/update_fda_companion_diagnostics.py
+      - name: Update ClinVar counts
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python3 scripts/update_clinvar.py
+      - name: Update species with genomes (GoaT)
+        run: python3 scripts/update_species_genomes.py
+      - name: Regenerate plots
+        run: python3 plot_metrics.py --summary
+      - name: Commit
+        run: |
+          git config --global user.name 'Nathan Sheffield'
+          git config --global user.email 'nsheff@users.noreply.github.com'
+          git add -A
+          git diff --cached --quiet || git commit -m "Automated update"
+          git push
